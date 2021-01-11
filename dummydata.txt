@@ -5,3 +5,10 @@ This is a normal english language words.
 Already have Skills : Java , sql , hibernate , spring mvc ..
 
 Working on which skills :  Angular , git , bootstrap , javascript .
+
+
+
+Now i created a new branch .. and doing working here .
+This will not effect the master branch.
+If u will find this effective then u can merge this into the master branch.
+Or u can simply remove it.
