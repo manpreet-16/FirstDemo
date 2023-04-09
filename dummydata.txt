@@ -14,3 +14,5 @@ If u will find this effective then u can merge this into the master branch.
 Or u can simply remove it.
 
 I will add bootstrap and form validation here.
+
+normal text
